@@ -1,4 +1,4 @@
-import React from 'React';
+import React from 'react';
 import { Text, View } from "react-native-web";
 export default function Forecast(props) {
     return (
